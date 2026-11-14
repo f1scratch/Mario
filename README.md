@@ -10,3 +10,5 @@ Mario-themed video game for coding with C++
 5. After collecting all the stars princess Peach will appear. Please wait for her to give you your prize.
 
 Enjoy this game developed just for your learning (and entertainement).
+
+Visit http://localhost:8000 in Chrome.
