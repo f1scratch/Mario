@@ -1,5 +1,5 @@
-# C++ with Super Mario!
-Mario themed video game for coding with C++
+# Super Mario's Treasure Hunt!
+Mario-themed video game for coding with C++
 
 #How to Play
 
